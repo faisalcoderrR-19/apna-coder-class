@@ -1,4 +1,4 @@
 # apna-coder-class
- this is my  first coching class 
+ This is my  First Coding class 
  <br>
  Trainer by Faisal
